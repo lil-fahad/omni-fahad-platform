@@ -1,0 +1,32 @@
+
+# APIs & Integration
+# Core ML & Data
+# Optional (for inference or scheduling)
+# Time Series & NLP
+# Visualization & UI
+fastapi
+joblib
+lightning
+matplotlib
+numpy
+openai
+optuna
+pandas
+plotly
+prefect
+pydantic
+pygments
+pytrends
+requests
+rich
+scikit-learn
+shap
+snscrape
+streamlit
+tensorflow
+torch
+transformers
+tsfresh
+uvicorn
+xgboost
+yfinance
