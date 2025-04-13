@@ -1,3 +1,4 @@
+
 # OmniFahad Unified Options + Macro Intelligence Platform
 
 This is a harmonized system that combines:
